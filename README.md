@@ -1,7 +1,7 @@
 # M2OR : Database of Olfactory Receptors-Molecule Measurments
 
-The sense of smell, is initiated by the binding of odorant to specific receptors expressed at the
-surface of olfactory neuron. This first step activates signaling pathways leading to the perception
+The sense of smell, is initiated by the activation specific receptors expressed at the
+surface of olfactory neuron, induced by the binding of an odorant. This first step activates signaling pathways leading to the perception
 of distinct odors. To gain a deeper understanding of the molecular mechanisms involved in
 olfaction, we have gathered a database of OR-odorant pairs, drawn from published literature and
 public databases. It includes over 51,483 unique pairs of ORs-molecules. The database contains
