@@ -1,4 +1,4 @@
-# M2OR : Database of Olfactory Receptors-Molecule Measurments
+# M2OR : Database of Olfactory Receptors-Molecule Measurments [1]
 
 The sense of smell, is initiated by the activation specific receptors expressed at the
 surface of olfactory neuron, induced by the binding of an odorant. This first step activates signaling pathways leading to the perception
@@ -39,3 +39,15 @@ The reference (*Reference*, *DOI*) which the pairs originated from is given as w
 where the information was found. 
 
 ![image](https://user-images.githubusercontent.com/73403769/235442338-85d09711-8130-4c8f-974b-108e759975d3.png)
+
+### To cite us
+```
+@inproceedings{
+hladi{\v{s}}2023matching,
+title={Matching receptor to odorant with protein language and graph neural networks},
+author={Matej Hladi{\v{s}} and Maxence Lalis and Sebastien Fiorucci and J{\'e}r{\'e}mie Topin},
+booktitle={The Eleventh International Conference on Learning Representations },
+year={2023},
+url={https://openreview.net/forum?id=q9VherQJd8_}
+}
+```
