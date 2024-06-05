@@ -1,3 +1,6 @@
+# :airplane: TLDR: 
+The maintained and up-to-date data can be searched through and downloaded here: [m2or.chemsensim.fr](https://m2or.chemsensim.fr/)
+
 # M2OR : Database of Olfactory Receptors-Molecule Measurments [1]
 
 The sense of smell, is initiated by the activation specific receptors expressed at the
@@ -42,12 +45,17 @@ where the information was found.
 
 ### To cite us
 ```
-@inproceedings{
-hladi{\v{s}}2023matching,
-title={Matching receptor to odorant with protein language and graph neural networks},
-author={Matej Hladi{\v{s}} and Maxence Lalis and Sebastien Fiorucci and J{\'e}r{\'e}mie Topin},
-booktitle={The Eleventh International Conference on Learning Representations },
-year={2023},
-url={https://openreview.net/forum?id=q9VherQJd8_}
+@article{10.1093/nar/gkad886,
+author = {Lalis, Maxence and Hladiš, Matej and Khalil, Samar Abi and Briand, Loïc and Fiorucci, Sébastien and Topin, Jérémie},
+title = "{M2OR: a database of olfactory receptor–odorant pairs for understanding the molecular mechanisms of olfaction}",
+journal = {Nucleic Acids Research},
+pages = {gkad886},
+year = {2023},
+month = {10},
+abstract = "{Mammalian sense of smell is triggered by interaction between odorant molecules and a class of proteins, called olfactory receptors (ORs). These receptors, expressed at the surface of olfactory sensory neurons, encode myriad of distinct odors via a sophisticated activation pattern. However, determining the molecular recognition spectrum of ORs remains a major challenge. The Molecule to Olfactory Receptor database (M2OR, https://m2or.chemsensim.fr/) provides curated data that allows an easy exploration of the current state of the research on OR-molecule interaction. We have gathered a database of 75,050 bioassay experiments for 51 395 distinct OR-molecule pairs. Drawn from published literature and public databases, M2OR contains information about OR responses to molecules and their mixtures, receptor sequences and experimental details. Users can obtain information on the activity of a chosen molecule or a group of molecules, or search for agonists for a specific OR or a group of ORs. Advanced search allows for fine-grained queries using various metadata such as species or experimental assay system, and the database can be queried by multiple inputs via a batch search. Finally, for a given search query, users can access and download a curated aggregation of the experimental data into a binarized combinatorial code of olfaction.}",
+issn = {0305-1048},
+doi = {10.1093/nar/gkad886},
+url = {https://doi.org/10.1093/nar/gkad886},
+eprint = {https://academic.oup.com/nar/advance-article-pdf/doi/10.1093/nar/gkad886/52409607/gkad886.pdf},
 }
 ```
